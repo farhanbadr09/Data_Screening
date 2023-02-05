@@ -6,11 +6,11 @@ Python
 MySQL (RDBS)
 AWS
 
-
+<hr>
 1. Schema
 Design an RDBMS table schema to store the CSV data
 
-<b>Database Name :</b> Stocks_Data
+<b>Database Name :</b><br> Stocks_Data
 <b>MySQL Query:</b> CREATE DATABASE IF NOT EXISTS Stock_Data; 
 <b>Select Database Query:</b> Use Stock_Data;
 <b>Creating Table Query :</b> 
@@ -25,3 +25,4 @@ CREATE TABLE mytable(
 );
 
 <b>Displays Metadata Query:</b> {describe mytable;}
+<hr>
