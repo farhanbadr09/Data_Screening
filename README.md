@@ -29,6 +29,6 @@ CREATE TABLE mytable(
 
 <hr>
 
-2 Calculation You are required to use this data and calculate the following using SQL
+2 Calculation You are required to use this data and calculate the following using SQL <br>
 <b>Weekly average of High, Low and Volume:</b> <br>
-```select week(Date),avg(High) from data group by week(Date);```
+<b>Query</b>```select week(Date),avg(High) from data group by week(Date);```
