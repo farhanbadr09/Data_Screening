@@ -3,6 +3,7 @@ Hi Team, Hopefully you're doing great!
 
 <h4>Tools:</h4>
 Python<br>
+Jupyter Enviroment<br>
 MySQL (RDBS)<br>
 AWS <br>
 
@@ -39,3 +40,7 @@ CREATE TABLE mytable(
 <b>Yearly average of High, Low and Volume:</b> <br>
 <b>Query: </b>```SELECT YEAR(Date),AVG(High),AVG(Low), AVG(Volume) FROM data group by YEAR(Date);```
 
+Stock Data ETL Process Part-1.ipynb (Contains first two Questions)
+Stock Data ETL Process Part-2.ipynb (Contains third Question)
+
+Author: Farhan Badr
