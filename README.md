@@ -10,10 +10,10 @@ AWS
 1. Schema
 Design an RDBMS table schema to store the CSV data
 
-Database Name : Stocks_Data
-MySQL Query: CREATE DATABASE IF NOT EXISTS Stock_Data; 
-Select Database Query: Use Stock_Data;
-Creating Table Query : 
+<b>Database Name :</b> Stocks_Data
+<b>MySQL Query:</b> CREATE DATABASE IF NOT EXISTS Stock_Data; 
+<b>Select Database Query:</b> Use Stock_Data;
+<b>Creating Table Query :</b> 
 CREATE TABLE mytable(
    Date DATE NOT NULL PRIMARY KEY,
    Open NUMERIC(10,6) NOT NULL,
@@ -24,4 +24,4 @@ CREATE TABLE mytable(
    Volume INTEGER  NOT NULL
 );
 
-Displays Metadata Query: {describe mytable;}
+<b>Displays Metadata Query:</b> {describe mytable;}
