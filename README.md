@@ -25,5 +25,10 @@ CREATE TABLE mytable(
    Volume INTEGER  NOT NULL
 );
 ```
-<b>Displays Metadata Query:</b> ```describe mytable;```
+<b>Displays Metadata Query:</b> ```Describe mytable;```
+
 <hr>
+
+2 Calculation You are required to use this data and calculate the following using SQL
+<b>Weekly average of High, Low and Volume:</b> <br>
+```select week(Date),avg(High) from data group by week(Date);```
