@@ -11,7 +11,7 @@ AWS <br>
 Design an RDBMS table schema to store the CSV data
 
 <b>Database Name :</b> Stocks_Data<br>
-<b>MySQL Query:</b> CREATE DATABASE IF NOT EXISTS Stock_Data; <br>
+<b>MySQL Query:</b> {{{CREATE DATABASE IF NOT EXISTS Stock_Data;}}} <br>
 <b>Select Database Query:</b> Use Stock_Data;<br>
 <b>Creating Table Query :</b> <br>
 CREATE TABLE mytable(
