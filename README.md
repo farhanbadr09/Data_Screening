@@ -44,5 +44,5 @@ CREATE TABLE mytable(
 <hr>
 Stock Data ETL Process Part-1.ipynb (Contains first two Questions)<br>
 Stock Data ETL Process Part-2.ipynb (Contains third Question)
-<hr>
+
 Author: Farhan Badr
