@@ -31,4 +31,4 @@ CREATE TABLE mytable(
 
 2 Calculation You are required to use this data and calculate the following using SQL <br>
 <b>Weekly average of High, Low and Volume:</b> <br>
-<b>Query</b>```select week(Date),avg(High) from data group by week(Date);```
+<b>Query: </b>```select week(Date),avg(High) from data group by week(Date);```
