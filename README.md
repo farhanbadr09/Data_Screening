@@ -60,7 +60,8 @@ CREATE TABLE mytable(
 <i>Jupyter Source File:</i> Stock Data ETL Process Part-1.ipynb (Contains first two Questions)<br>
 
 <hr>
-
+<b>3. System Design</b>
+<br>
 Stock Data ETL Process Part-2.ipynb (Contains third Question)
 
 Author: Farhan Badr
