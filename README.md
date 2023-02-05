@@ -25,8 +25,8 @@ import pyarrow.parquet as pq
 ```
 
 <hr>
-<i>1. Schema
-Design an RDBMS table schema to store the CSV data</i>
+<b>1. Schema
+Design an RDBMS table schema to store the CSV data</b>
 
 <i>Database Name :</i> Stocks_Data<br>
 <i>MySQL Query:</i> ```CREATE DATABASE IF NOT EXISTS Stock_Data;``` <br>
@@ -47,7 +47,7 @@ CREATE TABLE mytable(
 
 <hr>
 
-<i>2 Calculation You are required to use this data and calculate the following using SQL </i><br>
+<b>2 Calculation You are required to use this data and calculate the following using SQL </b><br>
 <i>Weekly average of High, Low and Volume:</i> <br>
 <i>Query: </i>```SELECT WEEK(Date),AVG(High),AVG(Low), AVG(Volume) FROM data group by WEEK(Date);```
 
