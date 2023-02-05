@@ -63,5 +63,5 @@ CREATE TABLE mytable(
 <b>3. System Design</b>
 <br>
 Stock Data ETL Process Part-2.ipynb (Contains third Question)
-
-<i>Author: Farhan Badr</i>
+<br><br>
+<i>Software Engineer: Farhan Badr</i>
