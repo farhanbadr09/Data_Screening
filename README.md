@@ -64,4 +64,3 @@ CREATE TABLE mytable(
 <br>
 Stock Data ETL Process Part-2.ipynb (Contains third Question)
 <br><br>
-<i>Software Engineer: Farhan Badr</i>
