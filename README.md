@@ -7,6 +7,23 @@ Jupyter Enviroment<br>
 MySQL (RDBS)<br>
 AWS <br>
 
+Dependencies (Import libraries)
+```
+import time
+from tqdm.notebook import tqdm, trange  # to be used to track progress in loop iterations
+import pandas as pd
+import numpy as np
+from zipfile import ZipFile
+from io import BytesIO
+import urllib.request as urllib2
+import boto3
+from boto3.s3.transfer import TransferConfig
+from boto3.s3.transfer import S3Transfer
+import io
+import pyarrow as pa
+import pyarrow.parquet as pq
+```
+
 <hr>
 1. Schema
 Design an RDBMS table schema to store the CSV data
