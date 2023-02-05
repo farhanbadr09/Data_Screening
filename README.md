@@ -10,7 +10,7 @@ AWS <br>
 Dependencies (Import libraries)
 ```
 import time
-from tqdm.notebook import tqdm, trange  # to be used to track progress in loop iterations
+from tqdm.notebook import tqdm, trange
 import pandas as pd
 import numpy as np
 from zipfile import ZipFile
